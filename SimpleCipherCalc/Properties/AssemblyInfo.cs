@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Simple Substitution Cipher Calculator")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("reinforchu")]
-[assembly: AssemblyProduct("SimpleCipherCalc 1.0.0.0")]
-[assembly: AssemblyCopyright("Copyright © reinforchu")]
+[assembly: AssemblyProduct("SimpleCipherCalc 1.1.3.0")]
+[assembly: AssemblyCopyright("Copyright © Tsubasa FUJII")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // すべての値を指定するか、下のように '*' を使ってビルドおよびリビジョン番号を 
 // 既定値にすることができます:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.3.0")]
+[assembly: AssemblyFileVersion("1.1.3.0")]

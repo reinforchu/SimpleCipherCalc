@@ -125,7 +125,7 @@ namespace SimpleCipher
 
         private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Version: 1.0.0.0\nMIT License\nCopyright (C) reinforchu", "SimpleCipherCalc", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Version: 1.1.3.0\nMIT License\nCopyright (C) Tsubasa FUJII", "SimpleCipherCalc", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
